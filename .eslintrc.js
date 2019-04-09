@@ -15,6 +15,7 @@ module.exports = {
   rules: {
     "no-console": "off",
     "prefer-const": "off",
-    "no-trailing-spaces": "off"
+    "no-trailing-spaces": "off",
+    "vue/max-attributes-per-line": "off"
   }
 }
